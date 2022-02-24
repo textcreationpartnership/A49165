@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord Craven's case The Lord Craven, by leave of Parliament granted in May, 1641. went beyond sea, to attend his charge in Holland, and returned not into any of these three nations till April 1659. ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49165</idno>
+            <idno type="STC">Wing L3045C</idno>
+            <idno type="STC">ESTC R213939</idno>
+            <idno type="EEBO-CITATION">99826187</idno>
+            <idno type="PROQUEST">99826187</idno>
+            <idno type="VID">30582</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49165)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30582)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1992:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord Craven's case The Lord Craven, by leave of Parliament granted in May, 1641. went beyond sea, to attend his charge in Holland, and returned not into any of these three nations till April 1659. ...</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening words of text.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Dated: April 25, 1660.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Craven, William Craven, --  Earl of, 1606-1697 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:30582:1" rendition="simple:additions"/>
+            <head>THE Lord Craven's CASE.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Lord <hi>Craven</hi> by <hi>leave of Parliament</hi> granted in <hi>May,</hi> 1641. went beyond Sea, to attend his Charge in <hi>Holland,</hi> and returned not into any of theſe three Nations till <hi>April</hi> 1659.</p>
+            <p>Upon the ſixth of <hi>March,</hi> 1650. in the Lord <hi>Cravens</hi> ab<g ref="char:EOLhyphen"/>ſence, the <hi>Parliament</hi> that then ſat (without <hi>Hearing Charge</hi> or <hi>Summons,</hi> and upon the Teſtimony of <hi>Richard Faulconer</hi> extraju<g ref="char:EOLhyphen"/>dicially taken, who falſely ſwore that the Lord <hi>Craven</hi> promoted a Petition to the <hi>King of Scots</hi> at <hi>Breda</hi>) did <hi>Confiſcate</hi> his Eſtate, declaring the Lord <hi>Craven</hi> to to be an Offendor, Within an <hi>Iriſh Reſolve</hi> of Parliament of the 24th. of <hi>Aug.</hi> 1649. grounded upon Letters from <hi>Ireland,</hi> Ordered to be ſent into <hi>Ireland, there</hi> to be put in Execution, and which concerned only ſuch <hi>Engliſh</hi> and <hi>Scotch</hi> as had been imployed by the Parliament in <hi>Ireland,</hi> and had <hi>revolted</hi> and <hi>betrayed</hi> their Truſt <hi>there.</hi> Or ſuch who had or ſhould adhere to them <hi>there.</hi>
+            </p>
+            <p>Shortly after the ſaid Votes of Confiſcation, the Lord <hi>Cravens</hi> friends in <hi>England</hi> applyed themſelves to <hi>that Parliament,</hi> Acquainting them that the Lord <hi>Craven</hi> was beyond the Seas, and knew nothing of the proceedings againſt him here, and therefore deſired <hi>leave to ſend an Expreſs</hi> unto the Lord <hi>Craven</hi> to give him no<g ref="char:EOLhyphen"/>tice thereof. And in the mean time to ſuſpend the Execution of their Vote of <hi>Confiſcation.</hi> Which Petition was read in Parliament; but <hi>leave</hi> was not granted.</p>
+            <p>Afterwards <hi>(viz.) July</hi> 3, 1651. (being about four moneths after Confiſca<g ref="char:EOLhyphen"/>tion) <hi>That Parliament</hi> was pleaſed to paſs ſome Votes in Nature of a <hi>Summons,</hi> requiring the Lord <hi>Craven</hi> perſonally to appear before the Parliament the third of <hi>September</hi> following to anſwer ſuch things <hi>as ſhould be objected against him.</hi> And Ordered the <hi>Summons</hi> to be printed and publiſhed; Of which the Lord <hi>Craven</hi> was to take Notice at his Peril, though leave as aforeſaid was denied to ſend to him, the Lord <hi>Craven</hi> being then in High <hi>Germany,</hi> diſtant from <hi>London</hi> near 500. Miles, Neither was the ſaid <hi>Summons</hi> directed according to the <hi>Law</hi> of the Land to be ſerved upon <hi>his perſon;</hi> Nor was there any <hi>Charge</hi> then or at any time after, <hi>during the ſitting of that Parliament</hi> drawn up againſt the Lord <hi>Craven</hi> to which he might give Anſwer, in caſe he had perſonally appeared.</p>
+            <p>That before the <hi>Bill of Sale</hi> did paſs, the L. <hi>Craven</hi> had ſeveral <hi>Petitions,</hi> which he ſent from beyond Seas, ſubſcribed with his own hand, preſented to and <hi>read in Parlia<g ref="char:EOLhyphen"/>ment.</hi> As alſo ſeveral Petitions in the name of his <hi>friends</hi> on his behalf, were likewiſe preſenetd to, and <hi>read in Parliament</hi> before the ſaid Bill of Sale did paſs. Thereby informing the Parliament that they could make it appear, that the <hi>Information</hi> given by the ſaid <hi>Faulconer</hi> was altogether <hi>falſe.</hi> That they could prove it by ſufficient Witneſſes, then in and about <hi>London,</hi> ready to be produced in Parliament, and by the Original Draught of the Petition mentioned to be preſented at <hi>Breda,</hi> of <hi>Faulconers own hand writing,</hi> further informing the Parliament, that there were
+<pb n="2" facs="tcp:30582:2"/>
+               <hi>Examinations</hi> taken at <hi>Whitehall</hi> which tended to clear the Lord <hi>Craven,</hi> but thoſe <hi>on<g ref="char:EOLhyphen"/>ly</hi> were tranſmitted to the Parliament, which ſeemed to make againſt the L. <hi>Craven.</hi> The Petitioners praying alſo that thoſe Examinations might likewiſe be tranſmitted to, and be <hi>read</hi> in Parliament as well as thoſe have been which ſeem to make a<g ref="char:EOLhyphen"/>gainſt the Lord <hi>Craven.</hi> And that the Lord <hi>Craven</hi> might be <hi>heard in his Defence</hi> before the Bill of Sale did paſſe; But all this could not prevaile to have the Lord <hi>Cravens</hi> Caſe heard before his Eſtate was expoſed to Sale; which Original Examinations ſo <hi>concealed</hi> and timely made knowne unto the Parliament as aforeſaid, are ſince brought to light and ready to be pro<g ref="char:EOLhyphen"/>duced in Parliament.</p>
+            <p>Nevertheleſs before the ſaid Bill did paſs (no anſwer being given to the ſaid <hi>Pe<g ref="char:EOLhyphen"/>titions</hi>) the Lord <hi>Cravens</hi> friends did <hi>(ſitting the Parliament)</hi> Indict the ſaid <hi>Richard Faulconer</hi> of <hi>Perjury</hi> committed by him in <hi>that very information of his a<g ref="char:EOLhyphen"/>gainſt the Lord Craven,</hi> and the <hi>Grand Jury</hi> found the indictment, whereupon the Lords <hi>Cravens</hi> friends did <hi>again</hi> petition the Parliament <hi>before</hi> the ſaid Bill of <hi>Sale</hi> did paſs. And did thereby acquaint them, that the ſaid <hi>Faulconer</hi> was <hi>Indicted</hi> of <hi>Perjury,</hi> and that the Grand Jury had found the Indictment. And beſeeched them that <hi>(yet)</hi> they would be pleaſed to heare the Lord <hi>Cravens</hi> Caſe before the ſaid Bill of Sale did paſs (As by the <hi>Petition read in Parlia<g ref="char:EOLhyphen"/>ment,</hi> and remaining upon record there may appear) But could not prevaile to be heard.</p>
+            <p>That the ſaid Bill of Sale afterwards being paſſed, the Lord <hi>Cravens</hi> friends did vigorouſly proſecute the <hi>Indictment</hi> againſt the ſaid <hi>Faulconer</hi> to cleare the Lord <hi>Cravens Innocency,</hi> though it could not ſave his Eſtate, and the ſaid <hi>Faulconer</hi> was accordingly brought to his <hi>Tryal.</hi> And after five houres hearing of evidence in the <hi>Upper Bench,</hi> in the preſence of as great an <hi>Auditory</hi> as hath been known in <hi>Weſtminſter</hi> Hall; the ſaid <hi>Faulconer</hi> was <hi>convicted of wilfull Perjury</hi> for that <hi>very Depoſition</hi> of his againſt the Lord <hi>Craven.</hi> At which tryal the ſaid <hi>Original</hi> draught of the Petition of <hi>Faulconers own hand-writing</hi> was then produced and read in Court in the preſence of <hi>Faulconer,</hi> and ſeveral of the Witneſſes, who ſubſcribed the ſame, were alſo examined in Court, clearing the Lord <hi>Cravens</hi> Innocency of the matter charged againſt him by <hi>Faulconer,</hi> and alſo it was pro<g ref="char:EOLhyphen"/>ved in the preſence of <hi>Faulconer</hi> at the ſame time by ſeveral Witneſſes of what a wicked life and converſation he was, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>(1.) That he drank a health to the <hi>Devil</hi> on his Knees.</item>
+               <item>(2.) That he ſaid the <hi>Virgin Mary</hi> was a Whore, and our Saviour <hi>Chriſt</hi> a Baſtard.</item>
+               <item>(3.) That he had been in <hi>Alisbury Goale,</hi> and <hi>Newgate</hi> for <hi>Robbery</hi> and <hi>Fellony,</hi> and ſeveral other horrid things were then proved againſt him, here forborne to be mentioned.</item>
+            </list>
+            <p>And afterwards the ſaid <hi>Faulconer</hi> upon his <hi>Death-bed,</hi> with great <hi>Terror</hi> and <hi>Horror of conſcience</hi> confeſſed publickly to ſeveral people then preſent with him in his ſickneſs, the <hi>VVilfulneſſe</hi> of his <hi>Perjury</hi> in that information of his againſt the Lord <hi>Craven,</hi> and manifeſted his ſorrow for the ſame, and declared <hi>how</hi> he was prompted thereunto, and alſo acknowledged that <hi>Penury</hi> and <hi>Want</hi> was a great cauſe to draw him to commit ſo horrid a <hi>Perjury;</hi> The truth of which Confeſſion upon his death-bed hath been already atteſted at the Barre of a <hi>late Parliament,</hi> which ſat <hi>Anno</hi> 1656. where the <hi>Original Confeſsion</hi> under <hi>Faul<g ref="char:EOLhyphen"/>coners</hi> own hand was then produced, and ſtill remaines upon Record in Par<g ref="char:EOLhyphen"/>liament.</p>
+            <pb n="3" facs="tcp:30582:2"/>
+            <p>That after ſuch time as the Lord <hi>Cravens</hi> Eſtate was expoſed to Sale, ſeveral <hi>Members</hi> of <hi>that Parliament,</hi> which were his <hi>Judges,</hi> and condemned him <hi>unheard,</hi> were the firſt that ſtept in to buy the Lord <hi>Cravens</hi> Eſtate, and had amongſt them to the value of 5000. li. <hi>per annum,</hi> and upwards; there being then in Par<g ref="char:EOLhyphen"/>liament, when the ſaid Bill of Sale did paſs, but <hi>fourty three Members, twenty whereof were againſt the ſale of the Lord</hi> Cravens <hi>Eſtate,</hi> as appears by the Journal of Parliament upon the Diviſion of the Houſe, whether the Lord <hi>Cra<g ref="char:EOLhyphen"/>vens</hi> Name ſhould paſſe in that Bill.</p>
+            <p>Notwithſtanding all theſe <hi>diſcouragements;</hi> the Lord <hi>Craven,</hi> though he had loſt his Eſtate, was reſolved to purſue the recovery thereof with <hi>Hue</hi> and <hi>Cry</hi> by his conſtant <hi>appeals</hi> for <hi>Juſtice</hi> to all ſubſequent Powers and Authorities, and therefore no ſooner was <hi>that Parliament</hi> which confiſcated his Eſtate <hi>interrupted</hi> by the <hi>Army,</hi> but he appealed by Petition to the <hi>Convention,</hi> which after<g ref="char:EOLhyphen"/>wards was ſtiled by the Name of <hi>a Parliament.</hi> After that to the <hi>Parliament</hi> which met <hi>Anno</hi> 1654. And after that to the <hi>Parliament</hi> in 1656. and alſo to the <hi>Parliament Anno</hi> 1658/59. All which Authorities did admit of the Lords <hi>Cra<g ref="char:EOLhyphen"/>vens</hi> Petition of <hi>Appeal,</hi> and put the ſame in a way of Examination<g ref="char:punc">▪</g> But by reaſon of their <hi>untimely diſſolutions,</hi> he could get no relief upon the reſpective Addreſſes which he made unto <hi>thoſe</hi> Parliaments.</p>
+            <p>And laſtly, After <hi>that Parliament</hi> which confiſcated the Lord <hi>Cravens</hi> Eſtate <hi>unheard,</hi> was reſtored to ſit again after <hi>five</hi> years interruption, the Lord <hi>Craven</hi> in the cloſe purſuit of his <hi>Appeal,</hi> and to clear his <hi>innocency,</hi> did alſo preſent his humble Petition unto them, which was <hi>read in that Parliament,</hi> deſiring that he might be <hi>now heard</hi> at the Bar of <hi>their Houſe.</hi> But they were not pleaſed to grant that liberty to the Lord <hi>Craven,</hi> only appointed a Committee to conſi<g ref="char:EOLhyphen"/>der of a comfortable <hi>Subſiſtance</hi> out of what remained unſold of his Eſtate (which was very inconſiderable in poſſeſſion being little above 200 li. a year) But <hi>that Parliament</hi> ſhortly after the making of that Order, was the <hi>ſecond time interrupted</hi> by the Army, and the Lord <hi>Craven</hi> was not relieved in the leaſt upon his Petition: Nor hath he ever ſince his Eſtate was firſt confiscated in <hi>March</hi> 1650. had any Allowance out of the ſame for his ſubſiſtence.</p>
+            <list>
+               <head>Obſerve upon the whole MATTER.</head>
+               <item>(1) That there is not any Crime objected againſt the Lord <hi>Craven</hi> for which by any <hi>Law</hi> his Eſtate ought to be confiſcated (the pretended Crime a<g ref="char:EOLhyphen"/>gainſt him being only made by a <hi>Bare Vote</hi> not reduced into a Law, nor grounded upon any <hi>Charge, Impeachment, Indictment</hi> or <hi>Hearing.</hi>)</item>
+               <item>(2) That the Lord <hi>Craven</hi> is not within that Vote, it relating meerly to Actings in <hi>Ireland,</hi> and the Lord <hi>Craven</hi> never having been in <hi>Ireland,</hi> for acting any thing related to it.</item>
+               <item>(3.) That there is no other proof of his <hi>ſuppoſed Crime</hi> concerning the pro<g ref="char:EOLhyphen"/>moting of a Petition at <hi>Breda;</hi> but the Oath of one <hi>ſingle VVitneſſe ex<g ref="char:EOLhyphen"/>trajudicially taken;</hi> for which Oath <hi>that VVitneſs</hi> was found guily of <hi>Perjury.</hi>
+               </item>
+               <item>(4.) The putting of his Name into a Bill of Sale without a <hi>Charge</hi> or <hi>Offence</hi> by Order in Parliament was <hi>unparliamentary</hi> and without Preſident.</item>
+               <pb n="4" facs="tcp:30582:3"/>
+               <item>(5.) That the Vote for <hi>Summons</hi> of the Lord <hi>Craven</hi> was about <hi>foure Moneths</hi> after Confiſcation, he had no perſonal <hi>Notice</hi> of it, and <hi>Leave</hi> was denyed to be given to ſend him notice: Neither was there any Charge againſt him to anſwer, if he had come.</item>
+               <item>(6.) The Lord <hi>Craven often petitioned</hi> to be heard long before the Bill of Sale did paſs, but was not admitted to be heard.</item>
+               <item>(7.) That a great part of the Lord <hi>Cravens</hi> Eſtate hath been bought upon very eaſie termes by thoſe that were his <hi>Judges,</hi> and by others very neerly related to them, Who by their <hi>Beneficial Bargains,</hi> Sales of <hi>Woods,</hi> and pulling down of <hi>Houſes,</hi> and ſelling the Materials and other profits made, have for the moſt part <hi>reinburſed</hi> themſelves their pur<g ref="char:EOLhyphen"/>chaſe-Money.</item>
+            </list>
+            <p>For all which Reaſons the Lord <hi>Craven</hi> ſues for a <hi>Repeal</hi> of the Votes and Acts made againſt him, and Reparation for his loſses, as this Parliament in their Wiſdome ſhall think fit.</p>
+            <closer>
+               <dateline>Dated <date>
+                     <hi>April</hi> the 25. 1660.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
